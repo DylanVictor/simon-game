@@ -1,4 +1,4 @@
-# simon-game
+Simon Game 
 
 Website link: https://dylanvictor.github.io/simon-game/
 
